@@ -10,5 +10,6 @@ public class Area
         r = s.nextInt();
         area = pi * r * r;
         System.out.println("Area of circle:"+area);
+        System.out.println("Half of Area of circle:"+area/2);
     }            
 }
